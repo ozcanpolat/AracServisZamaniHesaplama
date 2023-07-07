@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\bin\Debug\netcoreapp3.1\AracServisZamanHesaplama.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AracServisZamanHesaplama\AracServisZamanHesaplama\obj\Debug\netcoreapp3.1\AracServisZamanHesaplama.genruntimeconfig.cache
